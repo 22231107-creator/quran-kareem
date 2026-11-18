@@ -11,7 +11,7 @@ class QuranHifzApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Quran Hifz Companion',
+      title: 'Quran kareem',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorSchemeSeed: const Color(0xFF059669),
