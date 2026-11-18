@@ -1,4 +1,4 @@
-# # Quran Kareem App 📖
+# Quran Kareem App 📖
 
 A mobile application (Flutter) to help users memorize and revise the Quran.
 
