@@ -3,9 +3,9 @@
     "short_name": "Quran Kareem",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "388E3C",
-    "theme_color": "388E3C",
-    "description": "A new Flutter project.",
+    "background_color": "#388E3C",
+    "theme_color": "#388E3C",
+    "description": "Quran memorization and revision app",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
