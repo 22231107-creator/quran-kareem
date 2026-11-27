@@ -1,4 +1,4 @@
-# Quran Kareem App 📖
+# Quran Hifz Companion App 📖
 
 A mobile application (Flutter) to help users memorize and revise the Quran.
 
