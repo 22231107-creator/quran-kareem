@@ -1,11 +1,11 @@
 {
-    "name": "quran_hifz_app",
-    "short_name": "quran_hifz_app",
+    "name": "Quran Kareem",
+    "short_name": "Quran Kareem",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#388E3C",
+    "theme_color": "#388E3C",
+    "description": "Quran memorization and revision app",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
